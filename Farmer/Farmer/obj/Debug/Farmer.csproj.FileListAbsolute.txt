@@ -1,0 +1,9 @@
+c:\Projects C#\Farmer\Farmer\bin\Debug\Farmer.exe.config
+c:\Projects C#\Farmer\Farmer\bin\Debug\Farmer.exe
+c:\Projects C#\Farmer\Farmer\bin\Debug\Farmer.pdb
+c:\Projects C#\Farmer\Farmer\obj\Debug\Farmer.csprojResolveAssemblyReference.cache
+c:\Projects C#\Farmer\Farmer\obj\Debug\Farmer.Form1.resources
+c:\Projects C#\Farmer\Farmer\obj\Debug\Farmer.Properties.Resources.resources
+c:\Projects C#\Farmer\Farmer\obj\Debug\Farmer.csproj.GenerateResource.Cache
+c:\Projects C#\Farmer\Farmer\obj\Debug\Farmer.exe
+c:\Projects C#\Farmer\Farmer\obj\Debug\Farmer.pdb
