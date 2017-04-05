@@ -1,0 +1,17 @@
+c:\users\ja\documents\visual studio 2015\Projects\RatujLudzi\RatujLudzi\bin\Debug\RatujLudzi.exe.config
+c:\users\ja\documents\visual studio 2015\Projects\RatujLudzi\RatujLudzi\bin\Debug\RatujLudzi.exe
+c:\users\ja\documents\visual studio 2015\Projects\RatujLudzi\RatujLudzi\bin\Debug\RatujLudzi.pdb
+c:\users\ja\documents\visual studio 2015\Projects\RatujLudzi\RatujLudzi\obj\Debug\RatujLudzi.csprojResolveAssemblyReference.cache
+c:\users\ja\documents\visual studio 2015\Projects\RatujLudzi\RatujLudzi\obj\Debug\MainWindow.g.cs
+c:\users\ja\documents\visual studio 2015\Projects\RatujLudzi\RatujLudzi\obj\Debug\App.g.cs
+c:\users\ja\documents\visual studio 2015\Projects\RatujLudzi\RatujLudzi\obj\Debug\RatujLudzi_MarkupCompile.cache
+c:\users\ja\documents\visual studio 2015\Projects\RatujLudzi\RatujLudzi\obj\Debug\RatujLudzi_MarkupCompile.lref
+c:\users\ja\documents\visual studio 2015\Projects\RatujLudzi\RatujLudzi\obj\Debug\MainWindow.baml
+c:\users\ja\documents\visual studio 2015\Projects\RatujLudzi\RatujLudzi\obj\Debug\RatujLudzi.g.resources
+c:\users\ja\documents\visual studio 2015\Projects\RatujLudzi\RatujLudzi\obj\Debug\RatujLudzi.Properties.Resources.resources
+c:\users\ja\documents\visual studio 2015\Projects\RatujLudzi\RatujLudzi\obj\Debug\RatujLudzi.csproj.GenerateResource.Cache
+c:\users\ja\documents\visual studio 2015\Projects\RatujLudzi\RatujLudzi\obj\Debug\RatujLudzi.exe
+c:\users\ja\documents\visual studio 2015\Projects\RatujLudzi\RatujLudzi\obj\Debug\RatujLudzi.pdb
+C:\Projects C#\Robione w (WPF)\RatujLudzi\RatujLudzi\bin\Debug\RatujLudzi.exe.config
+C:\Projects C#\Robione w (WPF)\RatujLudzi\RatujLudzi\obj\Debug\RatujLudzi.exe
+C:\Projects C#\Robione w (WPF)\RatujLudzi\RatujLudzi\obj\Debug\RatujLudzi.pdb

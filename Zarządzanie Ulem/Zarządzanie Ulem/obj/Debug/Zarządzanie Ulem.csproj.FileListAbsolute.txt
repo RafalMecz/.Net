@@ -1,0 +1,9 @@
+c:\Projects C#\Zarządzanie Ulem\Zarządzanie Ulem\bin\Debug\Zarządzanie Ulem.exe.config
+C:\Projects C#\Zarządzanie Ulem\Zarządzanie Ulem\obj\Debug\Zarządzanie Ulem.csprojResolveAssemblyReference.cache
+C:\Projects C#\Zarządzanie Ulem\Zarządzanie Ulem\obj\Debug\Zarządzanie_Ulem.Form1.resources
+C:\Projects C#\Zarządzanie Ulem\Zarządzanie Ulem\obj\Debug\Zarządzanie_Ulem.Properties.Resources.resources
+C:\Projects C#\Zarządzanie Ulem\Zarządzanie Ulem\obj\Debug\Zarządzanie Ulem.csproj.GenerateResource.Cache
+C:\Projects C#\Zarządzanie Ulem\Zarządzanie Ulem\bin\Debug\Zarządzanie Ulem.exe
+C:\Projects C#\Zarządzanie Ulem\Zarządzanie Ulem\bin\Debug\Zarządzanie Ulem.pdb
+C:\Projects C#\Zarządzanie Ulem\Zarządzanie Ulem\obj\Debug\Zarządzanie Ulem.exe
+C:\Projects C#\Zarządzanie Ulem\Zarządzanie Ulem\obj\Debug\Zarządzanie Ulem.pdb

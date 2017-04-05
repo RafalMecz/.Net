@@ -1,0 +1,12 @@
+c:\Projects C#\Odbijające_się_kontrolki\Odbijające_się_kontrolki\bin\Debug\Odbijające_się_kontrolki.exe.config
+c:\Projects C#\Odbijające_się_kontrolki\Odbijające_się_kontrolki\bin\Debug\Odbijające_się_kontrolki.exe
+c:\Projects C#\Odbijające_się_kontrolki\Odbijające_się_kontrolki\bin\Debug\Odbijające_się_kontrolki.pdb
+c:\Projects C#\Odbijające_się_kontrolki\Odbijające_się_kontrolki\obj\Debug\Odbijające_się_kontrolki.csprojResolveAssemblyReference.cache
+c:\Projects C#\Odbijające_się_kontrolki\Odbijające_się_kontrolki\obj\Debug\Odbijające_się_kontrolki.Form1.resources
+c:\Projects C#\Odbijające_się_kontrolki\Odbijające_się_kontrolki\obj\Debug\Odbijające_się_kontrolki.Properties.Resources.resources
+c:\Projects C#\Odbijające_się_kontrolki\Odbijające_się_kontrolki\obj\Debug\Odbijające_się_kontrolki.csproj.GenerateResource.Cache
+c:\Projects C#\Odbijające_się_kontrolki\Odbijające_się_kontrolki\obj\Debug\Odbijające_się_kontrolki.exe
+c:\Projects C#\Odbijające_się_kontrolki\Odbijające_się_kontrolki\obj\Debug\Odbijające_się_kontrolki.pdb
+C:\Users\ja\Desktop\.Net C#\Odbijające_się_kontrolki\Odbijające_się_kontrolki\bin\Debug\Odbijające_się_kontrolki.exe.config
+C:\Users\ja\Desktop\.Net C#\Odbijające_się_kontrolki\Odbijające_się_kontrolki\obj\Debug\Odbijające_się_kontrolki.exe
+C:\Users\ja\Desktop\.Net C#\Odbijające_się_kontrolki\Odbijające_się_kontrolki\obj\Debug\Odbijające_się_kontrolki.pdb

@@ -1,0 +1,12 @@
+c:\Projects C#\Niechlujny_Janek_Menu\Niechlujny_Janek_Menu\bin\Debug\Niechlujny_Janek_Menu.exe.config
+c:\Projects C#\Niechlujny_Janek_Menu\Niechlujny_Janek_Menu\bin\Debug\Niechlujny_Janek_Menu.exe
+c:\Projects C#\Niechlujny_Janek_Menu\Niechlujny_Janek_Menu\bin\Debug\Niechlujny_Janek_Menu.pdb
+c:\Projects C#\Niechlujny_Janek_Menu\Niechlujny_Janek_Menu\obj\Debug\Niechlujny_Janek_Menu.csprojResolveAssemblyReference.cache
+c:\Projects C#\Niechlujny_Janek_Menu\Niechlujny_Janek_Menu\obj\Debug\Niechlujny_Janek_Menu.Form1.resources
+c:\Projects C#\Niechlujny_Janek_Menu\Niechlujny_Janek_Menu\obj\Debug\Niechlujny_Janek_Menu.Properties.Resources.resources
+c:\Projects C#\Niechlujny_Janek_Menu\Niechlujny_Janek_Menu\obj\Debug\Niechlujny_Janek_Menu.csproj.GenerateResource.Cache
+c:\Projects C#\Niechlujny_Janek_Menu\Niechlujny_Janek_Menu\obj\Debug\Niechlujny_Janek_Menu.exe
+c:\Projects C#\Niechlujny_Janek_Menu\Niechlujny_Janek_Menu\obj\Debug\Niechlujny_Janek_Menu.pdb
+C:\Projects C#\Robione w Windows Application Formul\Niechlujny_Janek_Menu\Niechlujny_Janek_Menu\bin\Debug\Niechlujny_Janek_Menu.exe.config
+C:\Projects C#\Robione w Windows Application Formul\Niechlujny_Janek_Menu\Niechlujny_Janek_Menu\obj\Debug\Niechlujny_Janek_Menu.exe
+C:\Projects C#\Robione w Windows Application Formul\Niechlujny_Janek_Menu\Niechlujny_Janek_Menu\obj\Debug\Niechlujny_Janek_Menu.pdb

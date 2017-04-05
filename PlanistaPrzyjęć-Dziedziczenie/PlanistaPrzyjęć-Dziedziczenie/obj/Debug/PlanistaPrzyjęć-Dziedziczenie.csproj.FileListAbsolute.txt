@@ -1,0 +1,9 @@
+c:\Projects C#\PlanistaPrzyjęć-Dziedziczenie\PlanistaPrzyjęć-Dziedziczenie\bin\Debug\PlanistaPrzyjęć-Dziedziczenie.exe.config
+c:\Projects C#\PlanistaPrzyjęć-Dziedziczenie\PlanistaPrzyjęć-Dziedziczenie\obj\Debug\PlanistaPrzyjęć_Dziedziczenie.Form1.resources
+c:\Projects C#\PlanistaPrzyjęć-Dziedziczenie\PlanistaPrzyjęć-Dziedziczenie\obj\Debug\PlanistaPrzyjęć_Dziedziczenie.Properties.Resources.resources
+c:\Projects C#\PlanistaPrzyjęć-Dziedziczenie\PlanistaPrzyjęć-Dziedziczenie\obj\Debug\PlanistaPrzyjęć-Dziedziczenie.csproj.GenerateResource.Cache
+c:\Projects C#\PlanistaPrzyjęć-Dziedziczenie\PlanistaPrzyjęć-Dziedziczenie\obj\Debug\PlanistaPrzyjęć-Dziedziczenie.csprojResolveAssemblyReference.cache
+c:\Projects C#\PlanistaPrzyjęć-Dziedziczenie\PlanistaPrzyjęć-Dziedziczenie\bin\Debug\PlanistaPrzyjęć-Dziedziczenie.exe
+c:\Projects C#\PlanistaPrzyjęć-Dziedziczenie\PlanistaPrzyjęć-Dziedziczenie\bin\Debug\PlanistaPrzyjęć-Dziedziczenie.pdb
+c:\Projects C#\PlanistaPrzyjęć-Dziedziczenie\PlanistaPrzyjęć-Dziedziczenie\obj\Debug\PlanistaPrzyjęć-Dziedziczenie.exe
+c:\Projects C#\PlanistaPrzyjęć-Dziedziczenie\PlanistaPrzyjęć-Dziedziczenie\obj\Debug\PlanistaPrzyjęć-Dziedziczenie.pdb

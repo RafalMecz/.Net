@@ -1,0 +1,9 @@
+c:\Projects C#\Budujemy Dom\Budujemy Dom\bin\Debug\Budujemy Dom.exe.config
+C:\Projects C#\Budujemy Dom\Budujemy Dom\bin\Debug\Budujemy Dom.exe
+C:\Projects C#\Budujemy Dom\Budujemy Dom\bin\Debug\Budujemy Dom.pdb
+C:\Projects C#\Budujemy Dom\Budujemy Dom\obj\Debug\Budujemy Dom.csprojResolveAssemblyReference.cache
+C:\Projects C#\Budujemy Dom\Budujemy Dom\obj\Debug\Budujemy_Dom.Form1.resources
+C:\Projects C#\Budujemy Dom\Budujemy Dom\obj\Debug\Budujemy_Dom.Properties.Resources.resources
+C:\Projects C#\Budujemy Dom\Budujemy Dom\obj\Debug\Budujemy Dom.csproj.GenerateResource.Cache
+C:\Projects C#\Budujemy Dom\Budujemy Dom\obj\Debug\Budujemy Dom.exe
+C:\Projects C#\Budujemy Dom\Budujemy Dom\obj\Debug\Budujemy Dom.pdb

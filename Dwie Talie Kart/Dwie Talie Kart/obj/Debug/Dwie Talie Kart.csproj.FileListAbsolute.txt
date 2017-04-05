@@ -1,0 +1,12 @@
+c:\Projects C#\Dwie Talie Kart\Dwie Talie Kart\bin\Debug\Dwie Talie Kart.exe.config
+c:\Projects C#\Dwie Talie Kart\Dwie Talie Kart\bin\Debug\Dwie Talie Kart.exe
+c:\Projects C#\Dwie Talie Kart\Dwie Talie Kart\bin\Debug\Dwie Talie Kart.pdb
+c:\Projects C#\Dwie Talie Kart\Dwie Talie Kart\obj\Debug\Dwie Talie Kart.csprojResolveAssemblyReference.cache
+c:\Projects C#\Dwie Talie Kart\Dwie Talie Kart\obj\Debug\Dwie_Talie_Kart.Form1.resources
+c:\Projects C#\Dwie Talie Kart\Dwie Talie Kart\obj\Debug\Dwie_Talie_Kart.Properties.Resources.resources
+c:\Projects C#\Dwie Talie Kart\Dwie Talie Kart\obj\Debug\Dwie Talie Kart.csproj.GenerateResource.Cache
+c:\Projects C#\Dwie Talie Kart\Dwie Talie Kart\obj\Debug\Dwie Talie Kart.exe
+c:\Projects C#\Dwie Talie Kart\Dwie Talie Kart\obj\Debug\Dwie Talie Kart.pdb
+C:\Users\ja\Desktop\.Net C#\Dwie Talie Kart\Dwie Talie Kart\bin\Debug\Dwie Talie Kart.exe.config
+C:\Users\ja\Desktop\.Net C#\Dwie Talie Kart\Dwie Talie Kart\obj\Debug\Dwie Talie Kart.exe
+C:\Users\ja\Desktop\.Net C#\Dwie Talie Kart\Dwie Talie Kart\obj\Debug\Dwie Talie Kart.pdb

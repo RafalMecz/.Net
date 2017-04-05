@@ -1,0 +1,12 @@
+c:\Projects C#\Okna dialogowe\Okna dialogowe\bin\Debug\Okna dialogowe.exe.config
+c:\Projects C#\Okna dialogowe\Okna dialogowe\obj\Debug\Okna dialogowe.csprojResolveAssemblyReference.cache
+c:\Projects C#\Okna dialogowe\Okna dialogowe\obj\Debug\Okna_dialogowe.Form1.resources
+c:\Projects C#\Okna dialogowe\Okna dialogowe\obj\Debug\Okna_dialogowe.Properties.Resources.resources
+c:\Projects C#\Okna dialogowe\Okna dialogowe\obj\Debug\Okna dialogowe.csproj.GenerateResource.Cache
+c:\Projects C#\Okna dialogowe\Okna dialogowe\bin\Debug\Okna dialogowe.exe
+c:\Projects C#\Okna dialogowe\Okna dialogowe\bin\Debug\Okna dialogowe.pdb
+c:\Projects C#\Okna dialogowe\Okna dialogowe\obj\Debug\Okna dialogowe.exe
+c:\Projects C#\Okna dialogowe\Okna dialogowe\obj\Debug\Okna dialogowe.pdb
+C:\Users\ja\Desktop\.Net C#\Okna dialogowe\Okna dialogowe\bin\Debug\Okna dialogowe.exe.config
+C:\Users\ja\Desktop\.Net C#\Okna dialogowe\Okna dialogowe\obj\Debug\Okna dialogowe.exe
+C:\Users\ja\Desktop\.Net C#\Okna dialogowe\Okna dialogowe\obj\Debug\Okna dialogowe.pdb

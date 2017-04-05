@@ -1,0 +1,9 @@
+c:\Projects C#\PlanistaPrzyjęć 2.0\PlanistaPrzyjęć 2.0\bin\Debug\PlanistaPrzyjęć 2.0.exe.config
+C:\Projects C#\PlanistaPrzyjęć 2.0\PlanistaPrzyjęć 2.0\obj\Debug\PlanistaPrzyjęć 2.0.csprojResolveAssemblyReference.cache
+C:\Projects C#\PlanistaPrzyjęć 2.0\PlanistaPrzyjęć 2.0\obj\Debug\PlanistaPrzyjęć_2._0.Form1.resources
+C:\Projects C#\PlanistaPrzyjęć 2.0\PlanistaPrzyjęć 2.0\obj\Debug\PlanistaPrzyjęć_2._0.Properties.Resources.resources
+C:\Projects C#\PlanistaPrzyjęć 2.0\PlanistaPrzyjęć 2.0\obj\Debug\PlanistaPrzyjęć 2.0.csproj.GenerateResource.Cache
+C:\Projects C#\PlanistaPrzyjęć 2.0\PlanistaPrzyjęć 2.0\bin\Debug\PlanistaPrzyjęć 2.0.exe
+C:\Projects C#\PlanistaPrzyjęć 2.0\PlanistaPrzyjęć 2.0\bin\Debug\PlanistaPrzyjęć 2.0.pdb
+C:\Projects C#\PlanistaPrzyjęć 2.0\PlanistaPrzyjęć 2.0\obj\Debug\PlanistaPrzyjęć 2.0.exe
+C:\Projects C#\PlanistaPrzyjęć 2.0\PlanistaPrzyjęć 2.0\obj\Debug\PlanistaPrzyjęć 2.0.pdb

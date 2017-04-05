@@ -1,0 +1,9 @@
+c:\Projects C#\Gra w literki\Gra w literki\bin\Debug\Gra w literki.exe.config
+C:\Projects C#\Gra w literki\Gra w literki\bin\Debug\Gra w literki.exe
+C:\Projects C#\Gra w literki\Gra w literki\bin\Debug\Gra w literki.pdb
+C:\Projects C#\Gra w literki\Gra w literki\obj\Debug\Gra w literki.csprojResolveAssemblyReference.cache
+C:\Projects C#\Gra w literki\Gra w literki\obj\Debug\Gra_w_literki.Form1.resources
+C:\Projects C#\Gra w literki\Gra w literki\obj\Debug\Gra_w_literki.Properties.Resources.resources
+C:\Projects C#\Gra w literki\Gra w literki\obj\Debug\Gra w literki.csproj.GenerateResource.Cache
+C:\Projects C#\Gra w literki\Gra w literki\obj\Debug\Gra w literki.exe
+C:\Projects C#\Gra w literki\Gra w literki\obj\Debug\Gra w literki.pdb

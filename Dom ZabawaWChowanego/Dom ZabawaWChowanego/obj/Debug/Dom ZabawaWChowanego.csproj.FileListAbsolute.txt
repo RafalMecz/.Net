@@ -1,0 +1,9 @@
+c:\Projects C#\Dom ZabawaWChowanego\Dom ZabawaWChowanego\bin\Debug\Dom ZabawaWChowanego.exe.config
+c:\Projects C#\Dom ZabawaWChowanego\Dom ZabawaWChowanego\bin\Debug\Dom ZabawaWChowanego.exe
+c:\Projects C#\Dom ZabawaWChowanego\Dom ZabawaWChowanego\bin\Debug\Dom ZabawaWChowanego.pdb
+c:\Projects C#\Dom ZabawaWChowanego\Dom ZabawaWChowanego\obj\Debug\Dom ZabawaWChowanego.csprojResolveAssemblyReference.cache
+c:\Projects C#\Dom ZabawaWChowanego\Dom ZabawaWChowanego\obj\Debug\Dom_ZabawaWChowanego.Properties.Resources.resources
+c:\Projects C#\Dom ZabawaWChowanego\Dom ZabawaWChowanego\obj\Debug\Dom ZabawaWChowanego.csproj.GenerateResource.Cache
+c:\Projects C#\Dom ZabawaWChowanego\Dom ZabawaWChowanego\obj\Debug\Dom ZabawaWChowanego.exe
+c:\Projects C#\Dom ZabawaWChowanego\Dom ZabawaWChowanego\obj\Debug\Dom ZabawaWChowanego.pdb
+c:\Projects C#\Dom ZabawaWChowanego\Dom ZabawaWChowanego\obj\Debug\Dom_ZabawaWChowanego.Form1.resources

@@ -1,0 +1,9 @@
+c:\Projects C#\Serializacja Zabawa Franklina i Ździcha\Serializacja Zabawa Franklina i Ździcha\bin\Debug\Serializacja Zabawa Franklina i Ździcha.exe.config
+c:\Projects C#\Serializacja Zabawa Franklina i Ździcha\Serializacja Zabawa Franklina i Ździcha\obj\Debug\Serializacja Zabawa Franklina i Ździcha.csprojResolveAssemblyReference.cache
+c:\Projects C#\Serializacja Zabawa Franklina i Ździcha\Serializacja Zabawa Franklina i Ździcha\obj\Debug\Serializacja_Zabawa_Franklina_i_Ździcha.Properties.Resources.resources
+c:\Projects C#\Serializacja Zabawa Franklina i Ździcha\Serializacja Zabawa Franklina i Ździcha\obj\Debug\Serializacja Zabawa Franklina i Ździcha.csproj.GenerateResource.Cache
+c:\Projects C#\Serializacja Zabawa Franklina i Ździcha\Serializacja Zabawa Franklina i Ździcha\obj\Debug\Serializacja_Zabawa_Franklina_i_Ździcha.Form1.resources
+c:\Projects C#\Serializacja Zabawa Franklina i Ździcha\Serializacja Zabawa Franklina i Ździcha\bin\Debug\Serializacja Zabawa Franklina i Ździcha.exe
+c:\Projects C#\Serializacja Zabawa Franklina i Ździcha\Serializacja Zabawa Franklina i Ździcha\bin\Debug\Serializacja Zabawa Franklina i Ździcha.pdb
+c:\Projects C#\Serializacja Zabawa Franklina i Ździcha\Serializacja Zabawa Franklina i Ździcha\obj\Debug\Serializacja Zabawa Franklina i Ździcha.exe
+c:\Projects C#\Serializacja Zabawa Franklina i Ździcha\Serializacja Zabawa Franklina i Ździcha\obj\Debug\Serializacja Zabawa Franklina i Ździcha.pdb
